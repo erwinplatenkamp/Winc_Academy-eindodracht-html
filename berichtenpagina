@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="styles.css" />
+
+
+<head>
+    <title>Contactpagina</title>
+</head>
+
+<body class="background">
+
+    <header class="header">
+        <div>
+            <h1> Aquatastic</h1>
+            <p class="underheader"> De website over malawicichliden!</p>
+        </div>
+
+        <div>
+            <ul class="horizontaal">
+                <li><a href="index.html">Hoofdpagina</a></li>
+                <li><a href="aquariavanerwin.html">Mijn aquaria</a></li>
+                <li><a href="soortenvissen.html"> Soorten vissen</a></li>
+                <li><a href="nuttigetips.html">Nuttige tips</a></li>
+                <li><a href="berichtenpagina.html" class="horizontaal3">Contact</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <br />
+
+    <main class="body">
+        <br />
+        <div>
+            <h2 class="horizontaal5"> Laat op deze pagina een leuk bericht achter.</h2>
+        </div>
+
+        <form name="contact" method="POST" data-netlify="true">
+
+            <div>
+                <br />
+                <p class="horizontaal4"> Naam:</p>
+            </div>
+            <br />
+            <div>
+                <label><input class="body-tekst2" type=" text" name="Naam" /> </label>
+            </div>
+
+            <br />
+
+            <div>
+                <p class="horizontaal4">Geboortedatum:</p>
+            </div>
+
+            <br />
+
+            <div>
+                <label> <input class="body-tekst2" type="date" name="Geboortedatum" /> </label>
+            </div>
+
+            <br />
+
+            <div>
+                <p class="horizontaal4"> Gender: </p>
+            </div>
+
+            <br />
+
+            <div class="body-tekst2">
+                <input type="radio" id="man" name="gender" value="Man">
+                <label for="man">Man</label><br>
+                <input type="radio" id="vrouw" name="gender" value="Vrouw">
+                <label for="vrouw">Vrouw</label><br>
+                <input type="radio" id="gender neutraal" name="gender" value="Gender neutraal">
+                <label for="gender neutraal">Gender neutraal</label>
+            </div>
+
+            <hr />
+
+            <br />
+
+            <div>
+                <p class="horizontaal4"> Leuk berichtje: </p>
+            </div>
+
+            <br />
+
+            <div>
+                <label> <textarea class="body-tekst2" name="leuke tekst" rows="10" cols="40">
+    Laat hier een leuk berichtje achter over wat je van mijn website vindt. </textarea>
+                </label>
+            </div>
+
+            <div>
+                <br />
+                <p class=" horizontaal4"> Jouw mail adres:</p>
+            </div>
+
+            <br />
+
+            <div>
+                <label> <input class="body-tekst2" type="email" name="email" /> </label>
+            </div>
+
+            <hr />
+
+            <br />
+
+            <div>
+                <p class="horizontaal4"> Jouw meest favoriete soort aquarium: </p>
+            </div>
+
+            <br />
+
+            <div class="body-tekst2">
+                <input type="checkbox" id="Favoriete cousine1" name="Favoriete cousine1" value="Frans">
+                <label for="Favoriete cousine1"> Malawi cichliden</label><br>
+                <input type="checkbox" id="Favoriete cousine2" name="Favoriete cousine2" value="Italiaans">
+                <label for="Favoriete cousine1"> Afrikaanse cichliden</label><br>
+                <input type="checkbox" id="Favoriete cousine3" name="Favoriete cousine3" value="Spaans">
+                <label for="Favoriete cousine3"> Gezelschapsbak</label><br>
+                <input type="checkbox" id="Favoriete cousine4" name="Favoriete cousine4" value="Arabisch">
+                <label for="Favoriete cousine4"> Roofvissen</label><br>
+            </div>
+
+            <hr />
+            <br />
+
+            <div>
+                <h3 class="horizontaal5"> Ik ben ook benieuwd naar jouw aquarium.</h3>
+            </div>
+
+            <br />
+
+            <div class="horizontaal4">
+
+                <label for="myfile">Upload hier een foto van jouw aquarium:</label>
+            </div>
+
+            <div>
+                <br />
+                <input class="body-tekst2" type="file" id="myfile" name="myfile">
+            </div>
+
+            <br />
+
+            <div class="horizontaal4">
+                <label for="homepage">Of stuur hier de link naar jouw website:</label>
+            </div>
+
+            <div>
+                <br />
+                <input class="body-tekst2" type="url" id="homepage" name="homepage">
+            </div>
+
+            <br />
+
+            <div>
+                <button class="body-tekst2" type="submit">Send</button>
+            </div>
+
+            <br />
+
+        </form>
+    </main>
+
+    <footer class="footer">
+        <div class="tekst-footer">
+            Aquatastic.nl 2007-2021. All rights reserved
+            <br />
+            Contact: aquatastic@gmail.com
+            <br />
+            Met dank aan Winc-Academy
+        </div>
+        <br />
+    </footer>
+
+</body>
+
+</html>
