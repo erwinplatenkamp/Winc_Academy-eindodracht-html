@@ -1,0 +1,235 @@
+
+/* LAYOUT */
+
+body{
+    background-color: rgb(20, 19, 19);
+}           
+
+.header {
+    Margin: auto;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.underheader {
+Margin: auto;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+.body-header {
+    padding-left: 10px;
+    padding-right: 10;
+    padding-bottom: 0px;
+    padding-top: 10px;
+    color: rgb(26, 5, 145);
+    font-size: 40px;
+    }
+
+.horizontaal li {
+    display: inline;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: rgb(163, 208, 238);
+    margin: 40px;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 2rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.horizontaal2{
+    display: inline;
+    border: 1px dashed black;
+    border-radius: 25px;
+    background-color: rgb(163, 208, 238);
+    padding: 5px;
+    font-weight: 700;
+    font-size: 0,7rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.horizontaal3 {
+    display: inline;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: rgb(105, 255, 5);
+    margin: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: 700;
+    font-size: 2rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.horizontaal4{
+    display: inline;
+    border: 1px dashed black;
+    border-radius: 25px;
+    background-color: rgb(163, 208, 238);
+    margin: 20px;
+    padding: 5px;
+    font-weight: 700;
+    font-size: 1.4rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.horizontaal5 {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: rgb(163, 208, 238);
+    margin: 10px;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 2rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.body {
+    border: 2px dashed black;
+    border-radius: 40px;
+    background-color: rgb(255, 235, 198);
+    height: auto;
+    width:100%;
+    position: center;
+    background-repeat: no-repeat;
+}
+
+.body-tekst{
+    color: rgb(29, 46, 3);
+    padding: 10px;
+    font-weight: 200;
+    font-size: 1.5rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.body-tekst2{
+    color: rgb(29, 46, 3);
+    padding: 10px;
+    margin-left: 20px;
+    font-weight: 200;
+    font-size: 1.5rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.footer {
+    margin-top: 40px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+    border: 2px dashed black;
+    border-radius: 40px;
+    background-color: rgb(179, 178, 177);
+    height: auto;
+    width:100%;
+    position: center;
+    background-repeat: no-repeat;
+}
+
+.tekst-footer {
+    color: rgb(29, 46, 3);
+    margin: 20px;
+    text-align: center;
+    font-weight: 200;
+    font-size: 1.5rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Media querie */
+
+@media (max-width: 1400px) {
+  
+    .horizontaal li {
+        display: inline;
+        border: 2px solid black;
+        border-radius: 25px;
+        background-color: rgb(163, 208, 238);
+        margin: 10px;
+        padding: 10px;
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 1.6rem;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+
+    .horizontaal3 {
+        display: inline;
+        border: 2px solid black;
+        border-radius: 25px;
+        background-color: rgb(105, 255, 5);
+        margin: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 1.6rem;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+}
+    @media (max-width: 1200px) {
+        body{
+            background-color: rgb(20, 19, 19);
+        }
+
+        .horizontaal li {
+            display: inline;
+            border: 2px solid black;
+            border-radius: 25px;
+            background-color: rgb(163, 208, 238);
+            margin: 10px;
+            padding: 10px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.3rem;
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+
+        .horizontaal3 {
+            display: inline;
+            border: 2px solid black;
+            border-radius: 25px;
+            background-color: rgb(105, 255, 5);
+            margin: 10px;
+            padding-left: 30px;
+            padding-right: 30px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.3rem;
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+    }
+
+        @media (max-width: 1100px) {
+            body{
+                background-color: rgb(20, 19, 19);
+            }
+            .horizontaal li {
+                display: inline;
+                width: 80%;
+                border: 2px solid black;
+                border-radius: 25px;
+                background-color: rgb(163, 208, 238);
+                margin: 10px;
+                padding: 10px;
+                text-decoration: none;
+                font-weight: 700;
+                font-size: 1rem;
+                font-family: 'Source Sans Pro', sans-serif;
+            }
+      
+            .horizontaal3 {
+                display: inline;
+                border: 2px solid black;
+                border-radius: 25px;
+                background-color: rgb(105, 255, 5);
+                margin: 10px;
+                padding-left: 30px;
+                padding-right: 30px;
+                text-decoration: none;
+                font-weight: 700;
+                font-size: 1rem;
+                font-family: 'Source Sans Pro', sans-serif;
+            }}
