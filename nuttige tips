@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="styles.css" />
+
+
+<head>
+    <title>Eigen aquaria</title>
+</head>
+
+<body class="background">
+
+    <header class="header">
+        <div>
+            <h1> Aquatastic</h1>
+            <p class="underheader"> De website over malawicichliden!</p>
+        </div>
+
+        <div>
+            <ul class="horizontaal">
+                <li><a href="index.html">Hoofdpagina</a></li>
+                <li><a href="aquariavanerwin.html">Mijn aquaria</a></li>
+                <li><a href="soortenvissen.html"> Soorten vissen</a></li>
+                <li><a href="nuttigetips.html" class="horizontaal3">Nuttige tips</a></li>
+                <li><a href="berichtenpagina.html">Contact</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main class="body">
+        <div>
+            <h2 class="body-header"> Kweken</h2>
+
+            <img src="img/kweekbak.jfif" style="float: left; margin: 10px; width:50%;">
+
+            <p class="body-tekst">
+                krijgen ongeveer 30 tot 40 jongen per keer. In eerste instantie legt het vrouwtje de eitjes klaar op een
+                steen waarna het mannetje de eitjes bevrucht. Vervolgens, en dat is typisch voor cichliden, neemt het
+                vrouwtje de eitjes in de bek. Al na een aantal dagen komen de eitjes uit. De jongen blijven dan zeker
+                nog 3
+                weken in de bek van de moedervis tot er een moment komt dat ze haar jongen uitspuugt.
+                <br />
+                <br />
+                Best een belevenis want de moedervis eet gedurende die periode, een maand, helemaal niets. Het is dan
+                ook
+                niet vreemd dat in deze periode de moedervis vermagerd. Toch zal ze als een echte moeder optreden
+                wanneer er
+                gevaar is: de jongen zullen door de moeder weer in de bek worden genomen. Maar op een bepaalt moment
+                zullen
+                de jongen het zelf moeten doen en zwemt de moeder weg en worden de visjes aan hun lot overgelaten.
+                <br />
+                <br />
+                Wil je graag dat deze jongen het overleven? Zorg er dan voor dat er voldoende schuilplekken zijn.
+                Meestal is
+                het zo dat als er andere vissen bij zitten, dat je weinig tot geen jongen zal overhouden. Ook is het
+                mogelijk om een zogenoemde kweekbak te kopen. De moedervis zet je hier in. Op het moment dat ze de
+                jongen
+                uitspuigt komen ze in het kweekbakje terrecht waarna je ze veilig kunt grootbrengen in bijvoorbeeld een
+                ander aquarium met alleen maar jongen.
+            </p>
+        </div>
+
+        <div>
+            <h3 class="body-header"> Voedsel</h3>
+
+            <img src="img/visvoer.jpg" style="float: left; margin: 10px; width:50%;">
+
+            <p class="body-tekst">
+                Het goede voer is zeer belangrijk voor gezonde vissen.
+                <br />
+                <br />
+                Afwisseling van het leven maakt zoet, deze spreuk kan men ook voor het thema voer gebruiken. Want
+                afwisseling van het voer kan vele problemen voorkomen, maar niet elke soort voer is voor de Cichliden
+                geschikt.
+                <br />
+                <br />
+                Het is niet aan te raden, en dat geld voor meerdere grote cichliden, om te voeren met voer dat afkomstig
+                is van warmbloedige dieren. Alhoewel ze er groot en sterk uitzien hebben ze toch een gevoelige
+                spijsvertering. In de vrije natuur leven deze vissen voornamelijk van, vissen en van kreeftsoorten.
+                Daarom is het ook logisch dat het spijsverteringskanaal van de vissen niet geschikt is voor het
+                vertering van het vet van warmbloedige dieren.
+                <br />
+                <br />
+                Als men gaat voeren kan men, mocht de mogelijkheid er zijn, beter meerdere keren per dag matig voeren.
+                Stem de hoeveelheid en grootte van het voer af op de grootte van de vissen. De vissen zullen in de
+                natuur de gehele dag op zoek zijn naar voedsel, en daarom kunnen ze er moeite mee hebben om grote
+                hoeveelheden in 1 keer te verwerken.
+                <br />
+                <br />
+                Als u te grote porties voert betekend dat voedselresten, met alle kwalijke gevolgen van dien. Men kan
+                met het voeren gerust 1 op meerdere rustdagen invoeren, dit schijnt zelfs beter te zijn. Met het
+                onderwerp voeren is het erg belangrijk om de vissen te observeren. Hierdoor leert men de vissen een
+                beetje kennen en zal men het voerpatroon en wat wanneer te voeren vanzelf beter kunnen inschatten.
+                <br />
+                <br />
+                Droogvoer
+                <br />
+                <br />
+                hetvoerdroogEr is geen reden om negatief te praten over droogvoer. Ook grote cichliden eten dit graag,
+                droogvoer is niet zomaar droogvoer. Niet alleen al omdat dit in talloze varianten op de markt te
+                verkrijgen is, maar ook omdat de kwaliteit zeer verschillend is. Houd men er rekening mee dat er veel
+                verschil zit tussen de kwaliteit van het voer in de verschillende merken. Er zijn voer is in vele
+                soorten verkrijgen, het droogvoer wat het meest aangeboden word als voer voor grote cichliden zijn
+                sticks. Er zijn verschillende soorten uitvoeringen van deze sticks. Bepaalde sticks zullen op de
+                oppervlakte blijven drijven, waardoor de vissen het voer vanaf de oppervlakte moeten halen. Dit is voor
+                bijvoorbeeld de cyphotilapia een onnatuurlijke manier van eten aangezien zij op een diepte van tot 60
+                meter kunnen leven. In de vrije natuur zal deze vis dus nooit eten van de oppervlakte afhalen en is
+                drijvend voer dus niet geschikt voor de cyphotilapia. Er zijn ook sticks verkrijgbaar die niet zullen
+                blijven drijven, deze staafjes zinken naar de bodem en dwingen de vis om daar dus het voedsel te
+                nuttigen. Deze stick is dus meer geschikt voor de Cyphotilapia. Het beste kan men het droogvoer wat men
+                gebruikt eerst voor weken, dit omdat sommige sticks na het nuttigen door het water kunnen uitzetten in
+                de buik van de vis, dmv het voor weken zal dit niet gebeuren. Ook zal het voor weken ervoor zorgen dat
+                de sticks niet blijven drijven aan de oppervlakte.
+
+                Levend voer.
+                <br />
+                <br />
+                Ook kan men er aan denken om levend voer te voeren, natuurlijk voer.
+                <br />
+                <br />
+                De meeste vissen zullen dit erg waarderen. Praat men over levend voer dan kan men denken aan
+                bijvoorbeeld, muggenlarven ( witte en zwarte ), wormen en visjes. Deze bovengenoemde zijn meestal gewoon
+                verkrijgbaar in de dierenwinkel, het enige nadeel is dat er meestal een hoge prijs aan verbonden is. Als
+                men de zakjes met bijvoorbeeld de muggenlarven wil gaan voeren is het aan te raden om deze uit het zakje
+                te halen en om te spoelen met schoon water. Het water dat namelijk in het zakje zit is niet geschikt om
+                in het aquarium te eindigen.
+                <br />
+                <br />
+                Men zou er ook voor kunnen kiezen om in de natuur op zoek te gaan naar levend voer. Ik persoonlijk raad
+                dit niet aan, er kunnen namelijk altijd parasieten of ziektes meekomen met de zelf gevangen diertjes.
+                Ook is er een mogelijkheid, mits de ruimte het toelaat, om een eigen vissenkweek op te zetten. Men kan
+                dan uit de eigen kweek jonge of oudere vissen voeren. Op deze manier voorkomt men ook het gevaar van
+                meegebrachte parasieten of ziektes. Het voordeel van levend voer is dat het jagersinstinct weer naar
+                boven zal komen. Men zal zien dat als er een visje wordt losgelaten bij de grote Cichliden zoals de
+                Cyphotilapia, de kleuren veel intensiever worden en dat deze vissen zullen gaan jagen.
+                <br />
+                <br />
+                Gevriesdroogd voer
+                <br />
+                <br />
+                hetvoerdiepvriesGevriesdroogd voer is voer dat speciaal behandeld is, het voer (bv muggenlarven, mysis,
+                krill) worden eerst helemaal gedroogd waarna ze worden samengeperst tot een klein blokje. Na dit proces
+                worden ze ingevroren. Ook garnalen en mosselen zijn gevriesdroogd verkrijgbaar Gevriesdroogd voer heeft
+                wel alle vitaminen die levende voer ook heeft. Het voordeel van gevriesdroogd voer is dat het een stuk
+                langer houdbaar is als leven voer. Hoe kan men het beste het diepvriesvoer aan de vissen voeren? Laat
+                eerst het gevriesdroogde voer rustig ontdooien. Als dit ontdooid is kan men het beste het voer eerst
+                afspoelen onder de kraan. Men kan dit met lauw water doen. Hierna kunt u het voer aan uw vissen voeren.
+            </p>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="tekst-footer">
+            Aquatastic.nl 2007-2021. All rights reserved
+            <br />
+            Contact: aquatastic@gmail.com
+            <br />
+            Met dank aan Winc-Academy
+        </div>
+        <br />
+    </footer>
+
+</body>
+
+</html>
