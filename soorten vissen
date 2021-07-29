@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="styles.css" />
+
+
+<head>
+    <title>Contactpagina</title>
+</head>
+
+<body class="background">
+
+    <header class="header">
+        <div>
+            <h1> Aquatastic</h1>
+            <p class="underheader"> De website over malawicichliden!</p>
+        </div>
+
+        <hr />
+
+        <div>                                                            
+            <ul class="horizontaal">
+                <li><a href="index.html">Hoofdpagina</a></li>
+                <li><a href="aquariavanerwin.html">Mijn aquaria</a></li>
+                <li><a href="soortenvissen.html" class="horizontaal3"> Soorten vissen</a></li>
+                <li><a href="nuttigetips.html">Nuttige tips</a></li>
+                <li><a href="berichtenpagina.html">Contact</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main class="body">
+        <h1 class="body-header"> Vissen in mijn aquarium</h1>
+
+        <table class="underheader">
+            <tbody>
+                <tr>
+                    <td width="33%" valign="middle">
+                        <img width="33%" src="img/vis1.jpg"><br>
+                        <a href="https://www.cichlidenkwekers.nl/protomelas-virgatus/">
+                            Protomelas virgatus</a>
+                    </td>
+                    <td width="33%" valign="middle">
+                        <img width="33%" src="img/vis2.jpg"><br>
+                        <a href="https://www.cichlidenkwekers.nl/protomelas-virgatus/">
+                            Protomelas taeniolatus</a>
+                    </td>
+                    <td width="33%" valign="middle">
+                        <img width="33%" src="img/vis3.jpg"><br>
+                        <a href="https://www.cichlidenkwekers.nl/protomelas-taiwan-reef/">
+                            Protomelas taiwan reef </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table class="underheader">
+            <tbody>
+                <tr>
+                    <td width="33%" valign="middle">
+                        <img width="33%" src="img/vis4.jpg"><br>
+                        <a href="https://www.cichlidenkwekers.nl/otopharynx-lithobates/">
+                            Otopharynx lithobates</a>
+                    </td>
+                    <td width="33%" valign="middle">
+                        <img width="33%" src="img/vis5.jpg"><br>
+                        <a href="https://www.cichlidenkwekers.nl/sciaenochromis-fryeri-iceberg/">
+                            Sciaenochromis fryeri iceberg</a>
+                    </td>
+                    <td width="33%" valign="middle">
+                        <img width="33%" src="img/vis6.jpg"><br>
+                        <a href="https://www.cichlidenkwekers.nl/aulonocara-fire-fish/">
+                            Aulonocara Fire-Fish</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table class="underheader">
+            <tbody>
+                <tr>
+                    <td width="33%" valign="middle">
+                        <img width="33%" src="img/vis7.jpg"><br>
+                        <a href="https://www.cichlidenkwekers.nl/sciaenochromis-fryeri-ahli/">
+                            Sciaenochromis Fryeri Ahli</a>
+                    </td>
+                    <td width="33%" valign="middle">
+                        <img width="33%" src="img/vis8.jpg"><br>
+                        <a href="https://www.cichlidenkwekers.nl/copadichromis-borleyi/">
+                            Copadichromis borleyi</a>
+                    </td>
+                    <td width="33%" valign="middle">
+                        <img width="33%" src="img/vis9.jpg"><br>
+                        <a href="https://www.cichlidenkwekers.nl/otopharynx-tetrastigma/">
+                            Otopharynx tetrastigma</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+
+    <footer class="footer">
+        <div class="tekst-footer">
+            Aquatastic.nl 2007-2021. All rights reserved
+            <br />
+            Contact: aquatastic@gmail.com
+            <br />
+            Met dank aan Winc-Academy
+        </div>
+        <br />
+    </footer>
+
+</body>
+
+</html>
