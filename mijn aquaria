@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="styles.css" />
+
+
+<head>
+    <title>Eigen aquaria</title>
+</head>
+
+<body class="background">
+
+    <header class="header">
+        <div>
+            <h1> Aquatastic</h1>
+            <p class="underheader"> De website over malawicichliden!</p>
+        </div>
+
+        <div>
+            <ul class="horizontaal">
+                <li><a href="index.html">Hoofdpagina</a></li>
+                <li><a href="aquariavanerwin.html" class="horizontaal3">Mijn aquaria</a></li>
+                <li><a href="soortenvissen.html"> Soorten vissen</a></li>
+                <li><a href="nuttigetips.html">Nuttige tips</a></li>
+                <li><a href="berichtenpagina.html">Contact</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main class="body">
+        <div>
+            <h2 class="body-header"> Mijn eerste aquarium</h2>
+
+            <img src="img/aquarium 1.jfif" style="float: left; margin: 10px; width: 60%;">
+
+            <p class="body-tekst"> Mijn aquarium heeft de afmetingen 200x80x70, bruto dus 1120 liter. Deze bak staat nu
+                inmiddels alweer ± 3 jaar (sinds september 2014) in mijn huiskamer. Dit aquarium heeft een andere plaats
+                gekregen in de huiskamer dan de vorige die aan vervanging toe was.
+
+                                        De achter- en zijwanden zijn van Akwaline, deze keer niet zelf gemaakt zoals in mijn vorige aquaria.
+
+                Op de bodem liggen piepschuim platen, ter voorkoming van glasbreuk,van 2 cm dik. Daarop eerst de
+                onderste stenen,"Grauacke", geplaats en daarna goed gewassen metselzand rondom de stenen en op de rest
+                van de bodem gebruikt. Toen dit gedaan was de rest van de stenen geplaats en gevuld met leidingwater wat
+                bij ons een pH 7,9 en een dH 8,6 heeft (volgens het waterleiding bedrijf). Ik doe verder helemaal niets
+                aan waterbehandeling want mijn vissen voelen zich hier heel goed bij.
+
+                Ik filter deze bak over 3 verschillende losse filters. Het 1ste filter is een Eheim pot ( type 2213, 440
+                liter p/uur ), gevuld met alleen watten. Vanuit dit filter gaat het water naar een afgedichte pvc buis
+                die bovenop de bak ligt. In deze buis van 60 cm lang en 5 cm rond zijn kleine gaatjes geboord en is
+                gevuld met keramische pijpjes. Het water sproeit dan door de gaatjes terug in mijn bak. Dit heeft als
+                voordeel een constante gasuitwisseling aan het wateroppervlak, dus ook een hoog zuurstof gehalte in mijn
+                bak.
+                Het 2e filter is ook een Eheim pot ( type Eheim professionel 4+ , 1050 liter p/uur ), gevuld met diverse
+                filtermaterialen. Hiervan wordt het water via een uitlaat over het wateroppervlak terug in de bak
+                geleid.
+                De 3e filter is een JBL cristalprofi e1901 met een capaciteit van 1900 liter p/uur. Van dit filter gaat
+                de uitlaat direkt terug de bak in, ter hoogte van de waterspiegel sproeit deze over het wateroppervlak.
+
+                Als verlichting gebruik ik 2 grolux 58W lampen. Deze lampen zijn vanaf `s ochtends 9.30 uur aan tot `s
+                avonds 23.00 uur. Daarnaast liggen er nog 4 "Trocal super color plus" 58W lampen boven het
+                wateroppervlak maar die gebruik ik niet omdat de bak dan veel te licht wordt naar mijn zin.
+                De totale belichtingstijd komt hiermee dus op 13,5 uur en dit uit zich dan ook in een redelijk goede
+                alggroei op de stenen.
+
+                De temperatuur schommelt gedurende het jaar van 24 graden in de wintermaanden tot 28 graden in de
+                zomermaanden.
+
+                Als beplanting gebruik ik in deze bak Anubias "nana" en Anubias "barteri", die het vrij goed doen, maar
+                echter niet in het Malawimeer voorkomen. De vissen laten deze goed met rust.
+                Voorheen gebruikte ik altijd vallisneria (Vallisneria spiralis), javavaren (Microsorium pteropus) en
+                hoornblad als dit voorradig was (Ceratophyllum demersum), mijn vissen kunnen de vallisneria echter maar
+                niet met rust laten.
+            </p>
+        </div>
+
+        <div>              
+            <h3 class="body-header"> Mijn tweede aquarium</h3>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+            <iframe width="725" height="350" style="float: left; margin: 10px; width: 60%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          "
+                src="https://www.youtube.com/embed/iGYRtZn83fI">
+            </iframe>
+
+            <p class="body-tekst"> Sinds 2016 heb ik een groter aquarium met afmetingen 200x80x60 (960 liter). De
+                achter- en zijwanden zijn van Juwel en heb ik bewust simpel gehouden, omdat ik in de toekomst een
+                grotere bak zou willen. Om glasbreuk te voorkomen, liggen op de bodem piepschuim platen van 2cm dik.
+                Hierop zijn “Grauacke” geplaatst en goed gespoeld metselzand. Daarna zijn de rest van de stenen geplaats
+                en gevuld met leidingwater. Verdere behandeling van het water is niet nodig, omdat de waterwaarden
+                geschikt zijn voor de vissen.
+
+                De bak wordt over 2 filters gefilterd. Allereerst een Eheim pot (2213, 440 liter per uur) gevuld met
+                enkel watten. Het tweede filter is een JBL cristalprofi e1901 (1900 liter per uur). In eerste instantie
+                had ik de Eheim filter hetzelfde aangesloten als bij mijn vader en liep de uitstroom in een afgedichte
+                pvc buis bovenop de bak, maar door schimmelvorming was ik genoodzaakt om dit te veranderen in een gewone
+                sproeipijp.
+
+                Als verlichting gebruik ik 2 grolux 58W lampen, waarvan er één brandt van 9.30 tot 23.30 en de andere
+                van 12.00 tot 20.00. Dit zorgt voor een goede algengroei op de stenen.
+
+                De temperatuur is vrijwel constant op 25-26 graden.
+
+                De Anubias nana van mijn vorige bak heb ik mee overgenomen, omdat de vissen deze goed met rust laten.
+                Daarnaast heb ik een javavaren (Microsorium pteropus) en Vallisneria spiralis in mijn bak gezet. Ondanks
+                dat de Vallisneria in het begin nogal werd aangevreten, wordt deze nu redelijk met rust gelaten.
+            </p>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="tekst-footer">
+            Aquatastic.nl 2007-2021. All rights reserved
+            <br />
+            Contact: aquatastic@gmail.com
+            <br />
+            Met dank aan Winc-Academy
+        </div>
+        <br />
+    </footer>
+
+</body>
+
+</html>
